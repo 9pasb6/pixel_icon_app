@@ -5,8 +5,6 @@
   - [Capturas de Pantalla](#capturas-de-pantalla)
   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
   - [Cómo Utilizar](#cómo-utilizar)
-  - [Licencia](#licencia)
-  - [Contacto](#contacto)
 
 # Image Server Go
 
@@ -24,7 +22,8 @@ Concebido para ser flexible y fácil de desplegar, este servidor de imágenes es
 
 ### Vista Desktop
 
-![Vista Desktop](URL_PARA_IMAGEN_DESKTOP)
+![image](https://github.com/9pasb6/pixel_icon_app/assets/100176897/dd98a54d-2457-429f-b514-5aefed17d604)
+
 
 ### Vista Mobile
 
