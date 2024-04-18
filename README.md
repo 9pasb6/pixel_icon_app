@@ -1,4 +1,4 @@
-# Table of Contents
+# Tabla de contenidos
   - [Image Server Go](#image-server-go)
   - [Autor](#autor)
   - [Descripción](#descripción)
